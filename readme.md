@@ -1,5 +1,21 @@
 # Readme
 
+## FilePaths
+
+- Raw data 
+  - https://www.kaggle.com/neisse/scrapped-lyrics-from-6-genres
+- Sample input/output for QC 
+  - /quality_control/QC HIT Sample Input.csv
+  - /quality_control/QC HIT Sample Output.csv
+- Sample input/output for aggregation
+  - /aggregation/Aggregation HIT Sample Input.csv
+  - /aggregation/Aggregation HIT Sample Output.csv
+- Code for QC
+  - /final_project_quality_control_aggregation.py
+- Code for aggregation
+  - /final_project_quality_control_aggregation.py
+
+
 ## Milestones
 
 #### Dataset 
